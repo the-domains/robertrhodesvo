@@ -1,0 +1,28 @@
+name: RobertRhodesVO
+favicon: null
+layout_spectrum: 0.011427769204601645
+typography_spectrum: 0.9221943938173354
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.911712464177981
+  lightness: 0.1576054934412241
+  saturation: 0.6485380136873573
+  rhythmicContrast: 0.0221720973495394
+purpose: []
