@@ -1,18 +1,29 @@
-analytics: {}
+name: RobertRhodesVO
+favicon: null
+layout_spectrum: 0.799342
+typography_spectrum: 0.521382
+title: VoiceOver
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#0c091a'
-    - '#542bb7'
-    - '#a81ee6'
-    - '#a27bf8'
-    - '#d0aaff'
+    - '#040402'
+    - '#74ffff'
+    - '#f1fffe'
+    - '#316925'
+    - '#35b2dd'
   brandStrength: 0.9375
   lightness: 0.0625
-  rhythmicContrast: 1
   saturation: 0.5625
-cta: {}
-layout_spectrum: 0.799342
-name: RobertRhodesVO
-opengraph: {}
+  rhythmicContrast: 1
 purpose: []
-typography_spectrum: 0.521382
