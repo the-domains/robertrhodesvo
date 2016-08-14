@@ -1,18 +1,19 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/9KWLI_MyrkI'
-datePublished: '2016-07-06T23:58:59.104Z'
-dateModified: '2016-07-06T23:57:51.057Z'
+datePublished: '2016-08-14T02:34:58.617Z'
+dateModified: '2016-08-14T02:28:55.572Z'
 title: ''
 author: []
-authors: []
-publisher: null
-starred: false
 sourcePath: _posts/2016-07-06-httpsyoutube9kwli_myrki.md
+via: {}
+authors: []
+publisher: {}
+starred: false
 url: httpsyoutube9kwli_myrki/index.html
 _type: Article
 
