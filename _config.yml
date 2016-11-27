@@ -1,5 +1,6 @@
-layout_spectrum: 0.9209878797083172
 typography_spectrum: 0.9626273111637571
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#080413'
@@ -11,28 +12,28 @@ color:
   lightness: 0.5904145533104639
   saturation: 0.8078361017541905
   rhythmicContrast: 0.9201950991307708
-name: RobertRhodesVO
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/acd6ce69-8dd2-4245-8640-0c4ab01b113d.jpg
-cta: {}
-analytics: {}
+github: true
 opengraph:
   type: ''
   appId: ''
-purpose:
-  - type: contact
-    url: 'mailto:robertrhodesvo@gmail.com'
-    label: Booking
-title: Voice Talent SAG/AFTRA
-description: Robert Rhodes
+layout_spectrum: 0.9209878797083172
+analytics: {}
 author:
   name: ''
   url: ''
   email: robertrhodesvo@gmail.com
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/acd6ce69-8dd2-4245-8640-0c4ab01b113d.jpg
+name: RobertRhodesVO
+cta: {}
 navigation:
   - name: About ME
     id: 81ae859b-9cb6-45ea-ac58-db2c521d2a8b
     type: content
-github: true
+title: SAG/AFTRA
+content: []
+description: Robert Rhodes
+purpose:
+  - type: contact
+    url: 'mailto:robertrhodesvo@gmail.com'
+    label: Booking
