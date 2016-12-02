@@ -11,12 +11,13 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://hollywood.voicezam.com/?m=5481&p=Hollywood+Demos'
 title: Voice Talent - Robert Rhodes
-datePublished: '2016-11-27T21:56:37.534Z'
-dateModified: '2016-11-27T21:56:36.831Z'
+datePublished: '2016-12-02T03:53:00.763Z'
+dateModified: '2016-12-02T03:53:00.408Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-11-25-voice-talent-robert-rhodes.md
-starred: false
+datePublishedOriginal: '2016-11-27T21:56:37.534Z'
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
