@@ -1,5 +1,6 @@
-layout_spectrum: 0.21227954621555856
 typography_spectrum: 1
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#080413'
@@ -11,12 +12,11 @@ color:
   lightness: 0.2074773628776432
   saturation: 0.36962828849165674
   rhythmicContrast: 0.2280889047626037
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.21227954621555856
 analytics: {}
 author:
   name: ''
@@ -36,4 +36,4 @@ description: SAG/AFTRA
 purpose:
   - type: contact
     url: 'mailto:robertrhodesvo@gmail.com'
-    label: Booking
+    label: Book A Session
