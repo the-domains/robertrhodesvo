@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-02T04:18:55.903Z'
+datePublished: '2016-12-02T04:19:01.763Z'
 sourcePath: _posts/2016-11-25-nfl-insiderstheyknow-weekdays1.md
 inFeed: true
 isBasedOnUrl: 'https://youtu.be/9KWLI_MyrkI'
@@ -21,8 +21,8 @@ author:
     avatar: {}
 via: {}
 datePublishedOriginal: '2016-11-27T21:56:37.535Z'
-dateModified: '2016-12-02T04:18:55.586Z'
-title: NFL Insiders Promo
+dateModified: '2016-12-02T04:19:01.375Z'
+title: ESPN NFL Insiders Promo
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=9KWLI_MyrkI&feature=applinks'
     type: ios
