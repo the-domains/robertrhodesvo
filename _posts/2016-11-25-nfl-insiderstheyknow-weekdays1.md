@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-02T04:06:30.508Z'
+datePublished: '2016-12-02T04:06:40.941Z'
 sourcePath: _posts/2016-11-25-nfl-insiderstheyknow-weekdays1.md
 inFeed: true
 isBasedOnUrl: 'https://youtu.be/9KWLI_MyrkI'
@@ -21,7 +21,7 @@ author:
     avatar: {}
 via: {}
 datePublishedOriginal: '2016-11-27T21:56:37.535Z'
-dateModified: '2016-12-02T04:06:30.151Z'
+dateModified: '2016-12-02T04:06:40.602Z'
 title: NFL Insiders They Know WEEKDAYS on ESPN
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=9KWLI_MyrkI&feature=applinks'
@@ -60,11 +60,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+publisher: {}
 description: ''
 inLanguage: en
 starred: false
