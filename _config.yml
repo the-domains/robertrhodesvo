@@ -1,13 +1,5 @@
-name: RobertRhodesVO
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/acd6ce69-8dd2-4245-8640-0c4ab01b113d.jpg
-layout_spectrum: 0.21227954621555856
-typography_spectrum: 1
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
+layout_spectrum: 0.9468285917485187
+typography_spectrum: 0.2051757523462656
 color:
   brandColors:
     - '#080413'
@@ -15,10 +7,20 @@ color:
     - '#58bafc'
     - '#05fefd'
     - '#97fffd'
-  brandStrength: 0.7644048033138313
-  lightness: 0.2074773628776432
-  saturation: 0.36962828849165674
-  rhythmicContrast: 0.2280889047626037
+  brandStrength: 0.7639570067691073
+  lightness: 0.20894307776003856
+  saturation: 0.36292454726330126
+  rhythmicContrast: 0.22480172104700147
+coverPrefs:
+  filter: false
+name: RobertRhodesVO
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/acd6ce69-8dd2-4245-8640-0c4ab01b113d.jpg
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 purpose:
   - type: contact
     label: Book A Session
