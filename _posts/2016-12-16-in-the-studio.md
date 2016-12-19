@@ -1,12 +1,12 @@
 ---
 title: In The Studio
-datePublished: '2016-12-19T01:03:52.057Z'
-dateModified: '2016-12-19T01:03:46.949Z'
+datePublished: '2016-12-19T01:14:25.307Z'
+dateModified: '2016-12-19T01:14:22.560Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
-description: 2 ISDN Studios Source Connect IPDTL Phone Patch
+description: 2 ISDN Studios // Source Connect // IPDTL // Phone Patch
 via: {}
 starred: false
 datePublishedOriginal: '2016-12-16T02:07:16.866Z'
@@ -20,4 +20,4 @@ _context: 'http://schema.org'
 
 # _**In The Studio**_
 
-2 ISDN Studios Source Connect IPDTL Phone Patch
+_**2 ISDN Studios // Source Connect // IPDTL // Phone Patch**_
