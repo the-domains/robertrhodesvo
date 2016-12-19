@@ -1,6 +1,13 @@
+name: RobertRhodesVO
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/acd6ce69-8dd2-4245-8640-0c4ab01b113d.jpg
+layout_spectrum: 0.21227954621555856
 typography_spectrum: 1
-content_rating:
-  adult: false
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#080413'
@@ -12,28 +19,24 @@ color:
   lightness: 0.2074773628776432
   saturation: 0.36962828849165674
   rhythmicContrast: 0.2280889047626037
-github: true
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.21227954621555856
-analytics: {}
+purpose:
+  - type: contact
+    label: Book A Session
+    url: 'mailto:robertrhodesvo@gmail.com'
+  - type: external
+    label: 'Demos and Representation '
+    url: 'http://hollywood.voicezam.com/?m=5461'
+title: Robert Rhodes Voiceover
+description: SAG/AFTRA
 author:
   name: ''
   url: ''
   email: robertrhodesvo@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/acd6ce69-8dd2-4245-8640-0c4ab01b113d.jpg
-name: RobertRhodesVO
-cta: {}
+content_rating:
+  adult: false
 navigation:
   - name: About ME
     id: 81ae859b-9cb6-45ea-ac58-db2c521d2a8b
     type: content
-title: Robert Rhodes Voiceover
 content: []
-description: SAG/AFTRA
-purpose:
-  - type: contact
-    url: 'mailto:robertrhodesvo@gmail.com'
-    label: Book A Session
+github: true
