@@ -1,0 +1,26 @@
+---
+isBasedOnUrl: 'https://vimeo.com/196220928'
+keywords: []
+title: No Other Night Is Monday Night
+dateModified: '2016-12-19T02:39:06.685Z'
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+author:
+  - name: Hollywood
+    url: 'https://vimeo.com/user18992023'
+    avatar: {}
+inFeed: true
+description: ''
+via: {}
+datePublished: '2016-12-19T02:39:08.572Z'
+starred: false
+datePublishedOriginal: '2016-12-19T02:39:08.572Z'
+sourcePath: _posts/2016-12-19-no-other-night-is-monday-night.md
+_type: VideoObject
+_context: 'http://schema.org'
+
+---
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F196220928&amp;url=https%3A%2F%2Fvimeo.com%2F196220928&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F608632143_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
