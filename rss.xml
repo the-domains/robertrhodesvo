@@ -4,16 +4,9 @@
         <description><![CDATA[Robert Rhodes Voiceover]]></description>
         <link>https://thegrid.ai/robertrhodesvo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Dec 2016 04:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2016 04:15:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/robertrhodesvo/rss.xml" rel="self" type="application/rss+xml"/>
         <pubDate>Tue, 20 Dec 2016 04:14:26 GMT</pubDate>
-        <item>
-            <title><![CDATA[ESPN NFL Hall Of Fame Weekend]]></title>
-            <description><![CDATA[<article><h1>ESPN NFL Hall Of Fame Weekend</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fb6ff0593552c74cefcdfa4c156f98fd/croprotate.jpg?cropheight=827&cropwidth=1920&degrees=0&input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F587143802_1920x1080.jpg&x=0&y=128"></article>]]></description>
-            <link>https://vimeo.com/179275933</link>
-            <guid isPermaLink="false">3e41512c-f517-4717-b69e-4ec7abeeb23d</guid>
-            <pubDate>Tue, 20 Dec 2016 00:46:45 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Food Network The Shed ]]></title>
             <description><![CDATA[<article><h1>Food Network The Shed </h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a65a65e5f9abcd2f015ce3f19e1fe535/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F608633333_590x332.jpg"></article>]]></description>
@@ -27,6 +20,13 @@
             <link>https://vimeo.com/179588691</link>
             <guid isPermaLink="false">cdc63fd7-fe83-4d7f-83b8-24fa53f38e3c</guid>
             <pubDate>Tue, 20 Dec 2016 00:46:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ESPN NFL Hall Of Fame Weekend]]></title>
+            <description><![CDATA[<article><h1>ESPN NFL Hall Of Fame Weekend</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fb6ff0593552c74cefcdfa4c156f98fd/croprotate.jpg?cropheight=827&cropwidth=1920&degrees=0&input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F587143802_1920x1080.jpg&x=0&y=128"></article>]]></description>
+            <link>https://vimeo.com/179275933</link>
+            <guid isPermaLink="false">3e41512c-f517-4717-b69e-4ec7abeeb23d</guid>
+            <pubDate>Tue, 20 Dec 2016 04:14:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No Other Night Is Monday Night]]></title>
