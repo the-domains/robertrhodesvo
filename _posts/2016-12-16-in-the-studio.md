@@ -1,7 +1,7 @@
 ---
 title: In The Studio
-datePublished: '2016-12-20T00:46:46.070Z'
-dateModified: '2016-12-20T00:46:44.096Z'
+datePublished: '2016-12-20T04:14:21.091Z'
+dateModified: '2016-12-20T04:14:18.758Z'
 publisher: {}
 author: []
 inFeed: true
