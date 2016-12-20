@@ -2,7 +2,7 @@
 isBasedOnUrl: 'https://vimeo.com/196381149'
 keywords: []
 title: NFL Insiders...They Know
-dateModified: '2016-12-20T04:38:19.421Z'
+dateModified: '2016-12-20T04:41:00.070Z'
 publisher:
   name: Vimeo
   domain: vimeo.com
@@ -15,10 +15,10 @@ author:
 inFeed: true
 description: ''
 via: {}
-datePublished: '2016-12-20T04:38:21.380Z'
+datePublished: '2016-12-20T04:41:02.331Z'
+sourcePath: _posts/2016-12-20-nfl-insidersthey-know.md
 starred: false
 datePublishedOriginal: '2016-12-20T04:38:21.380Z'
-sourcePath: _posts/2016-12-20-nfl-insidersthey-know.md
 _type: VideoObject
 _context: 'http://schema.org'
 
