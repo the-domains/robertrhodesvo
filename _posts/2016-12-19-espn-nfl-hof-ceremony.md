@@ -2,8 +2,8 @@
 isBasedOnUrl: 'https://vimeo.com/179275933'
 keywords: []
 title: ESPN NFL Hall Of Fame Weekend
-datePublished: '2016-12-20T04:14:51.511Z'
-dateModified: '2016-12-20T04:14:50.406Z'
+datePublished: '2016-12-20T04:41:02.518Z'
+dateModified: '2016-12-20T04:41:00.070Z'
 publisher:
   name: Vimeo
   domain: vimeo.com
