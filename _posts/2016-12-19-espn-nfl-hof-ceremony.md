@@ -2,8 +2,8 @@
 isBasedOnUrl: 'https://vimeo.com/179275933'
 keywords: []
 title: ESPN NFL Hall Of Fame Weekend
-datePublished: '2016-12-19T04:20:25.896Z'
-dateModified: '2016-12-19T04:20:24.074Z'
+datePublished: '2016-12-20T04:14:21.615Z'
+dateModified: '2016-12-20T04:14:18.758Z'
 publisher:
   name: Vimeo
   domain: vimeo.com
@@ -16,9 +16,9 @@ author:
 inFeed: true
 description: ''
 via: {}
+sourcePath: _posts/2016-12-19-espn-nfl-hof-ceremony.md
 starred: true
 datePublishedOriginal: '2016-12-19T00:30:17.892Z'
-sourcePath: _posts/2016-12-19-espn-nfl-hof-ceremony.md
 _type: VideoObject
 _context: 'http://schema.org'
 
