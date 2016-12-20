@@ -2,8 +2,8 @@
 isBasedOnUrl: 'https://vimeo.com/196220928'
 keywords: []
 title: No Other Night Is Monday Night
-datePublished: '2016-12-20T04:14:21.523Z'
-dateModified: '2016-12-20T04:14:18.758Z'
+datePublished: '2016-12-20T04:14:51.691Z'
+dateModified: '2016-12-20T04:14:50.406Z'
 publisher:
   name: Vimeo
   domain: vimeo.com
