@@ -2,7 +2,7 @@
 isBasedOnUrl: 'https://vimeo.com/196464377'
 keywords: []
 title: Right Guard Xtreme Clear
-dateModified: '2016-12-20T22:10:06.044Z'
+dateModified: '2016-12-21T04:21:17.402Z'
 publisher:
   name: Vimeo
   domain: vimeo.com
@@ -15,10 +15,10 @@ author:
 inFeed: true
 description: ''
 via: {}
-datePublished: '2016-12-21T04:09:40.097Z'
+datePublished: '2016-12-21T04:21:17.879Z'
+sourcePath: _posts/2016-12-21-right-guard-xtreme-clear.md
 starred: false
 datePublishedOriginal: '2016-12-21T04:09:40.097Z'
-sourcePath: _posts/2016-12-21-right-guard-xtreme-clear.md
 _type: VideoObject
 _context: 'http://schema.org'
 
