@@ -1,17 +1,6 @@
-name: RobertRhodesVO
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef9f8418-8708-4d0b-a883-bbf2598d50e9.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7b3b8ac-1edf-4df4-8e9d-2a5ec6b40fa4.png
-layout_spectrum: 0.9468285917485187
 typography_spectrum: 0.2051757523462656
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca5a12d4-b3de-4710-8b2a-d399253b4397.jpg
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#080413'
@@ -23,6 +12,30 @@ color:
   lightness: 0.20894307776003856
   saturation: 0.36292454726330126
   rhythmicContrast: 0.22480172104700147
+github: true
+opengraph:
+  type: ''
+  appId: ''
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca5a12d4-b3de-4710-8b2a-d399253b4397.jpg
+layout_spectrum: 0.9468285917485187
+analytics: {}
+author:
+  email: robertrhodesvo@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7b3b8ac-1edf-4df4-8e9d-2a5ec6b40fa4.png
+name: RobertRhodesVO
+url: 'https://robertrhodesvo.com'
+cta: {}
+navigation:
+  - name: About ME
+    id: 81ae859b-9cb6-45ea-ac58-db2c521d2a8b
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef9f8418-8708-4d0b-a883-bbf2598d50e9.png
+title: Robert Rhodes Voiceover
+content: []
+description: SAG/AFTRA
 purpose:
   - type: contact
     label: Book A Session
@@ -30,15 +43,3 @@ purpose:
   - type: external
     label: Reel and Representation
     url: 'http://hollywood.voicezam.com/?m=5461'
-title: Robert Rhodes Voiceover
-description: SAG/AFTRA
-author:
-  email: robertrhodesvo@gmail.com
-content_rating:
-  adult: false
-navigation:
-  - name: About ME
-    id: 81ae859b-9cb6-45ea-ac58-db2c521d2a8b
-    type: content
-content: []
-github: true
