@@ -25,14 +25,13 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7b3b8ac-1edf-4df4-8e9d-2a5ec6b40fa4.png
 name: RobertRhodesVO
-url: 'https://thegrid.ai/robertrhodesvo'
+url: 'https://robertrhodesvo.com'
 cta: {}
 navigation:
   - name: About ME
     id: 81ae859b-9cb6-45ea-ac58-db2c521d2a8b
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef9f8418-8708-4d0b-a883-bbf2598d50e9.png
+favicon: null
 title: Robert Rhodes Voiceover
 content: []
 description: SAG/AFTRA
