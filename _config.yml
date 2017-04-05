@@ -1,17 +1,6 @@
-name: RobertRhodesVO
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1db21d04-223f-4a24-9487-69d26b0e1897.jpg
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7b3b8ac-1edf-4df4-8e9d-2a5ec6b40fa4.png
-layout_spectrum: 0.9468285917485187
 typography_spectrum: 0.2051757523462656
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/2879aaa3-011e-4056-b5ec-54fed2d1e9d4.jpg
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#080413'
@@ -23,6 +12,33 @@ color:
   lightness: 0.20894307776003856
   saturation: 0.36292454726330126
   rhythmicContrast: 0.22480172104700147
+github: true
+opengraph:
+  type: ''
+  appId: ''
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/2879aaa3-011e-4056-b5ec-54fed2d1e9d4.jpg
+layout_spectrum: 0.9468285917485187
+analytics: {}
+author:
+  name: 'RJR Productions Inc '
+  email: robertrhodesvo@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7b3b8ac-1edf-4df4-8e9d-2a5ec6b40fa4.png
+name: RobertRhodesVO
+cta: {}
+navigation:
+  - name: About Robert "Hollywood"?
+    id: 81ae859b-9cb6-45ea-ac58-db2c521d2a8b
+    type: content
+  - name: Voice Reel
+    id: 1f350a0e-861a-422e-bf19-b171878376ec
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1db21d04-223f-4a24-9487-69d26b0e1897.jpg
+title: Robert Rhodes Voiceovers
+content: []
+description: ''
 purpose:
   - type: contact
     label: Book A Session
@@ -30,16 +46,3 @@ purpose:
   - type: external
     label: Reel and Representation
     url: 'http://hollywood.voicezam.com/?m=5461'
-title: Robert Rhodes Voiceovers
-description: ''
-author:
-  name: 'RJR Productions Inc '
-  email: robertrhodesvo@gmail.com
-content_rating:
-  adult: false
-navigation:
-  - name: About Robert "Hollywood"?
-    id: 81ae859b-9cb6-45ea-ac58-db2c521d2a8b
-    type: content
-content: []
-github: true
