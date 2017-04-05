@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Voice Talent - Robert Rhodes
-dateModified: '2017-04-05T01:33:08.401Z'
-datePublished: '2017-04-05T01:34:25.916Z'
+dateModified: '2017-04-05T01:35:23.708Z'
+datePublished: '2017-04-05T01:35:24.073Z'
 title: Radio Commercials Demo for Robert Rhodes
 author: []
 publisher:
@@ -12,9 +12,9 @@ publisher:
   domain: hollywood.voicezam.com
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-05-radio-commercials-demo-for-robert-rhodes.md
 starred: false
 datePublishedOriginal: '2017-04-05T01:34:25.916Z'
-sourcePath: _posts/2017-04-05-radio-commercials-demo-for-robert-rhodes.md
 url: radio-commercials-demo-for-robert-rhodes/index.html
 _type: MediaObject
 
