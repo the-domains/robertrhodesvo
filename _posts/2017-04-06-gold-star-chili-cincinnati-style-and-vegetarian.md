@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   This is "Gold Star Chili - Cincinnati style AND vegetarian" by Hollywood on
   Vimeo, the home for high quality videos and the people who love them.
-dateModified: '2017-04-06T01:01:01.892Z'
-datePublished: '2017-04-06T01:01:02.483Z'
+dateModified: '2017-04-06T01:01:22.055Z'
+datePublished: '2017-04-06T01:01:22.288Z'
 title: Gold Star Chili - Cincinnati style AND vegetarian
 author:
   - name: Hollywood
