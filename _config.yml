@@ -34,6 +34,9 @@ navigation:
   - name: Voice Reel
     id: 1f350a0e-861a-422e-bf19-b171878376ec
     type: content
+  - name: My Latest Clients
+    id: c11c0c5b-78ea-422c-8e7b-7e77cee6a2d2
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1db21d04-223f-4a24-9487-69d26b0e1897.jpg
 title: Robert Rhodes Voiceovers
@@ -46,20 +49,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/48ac2248-4030-4e6c-9e42-f62eaeed74ee.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
