@@ -2,7 +2,7 @@
 isBasedOnUrl: 'https://vimeo.com/196520633'
 keywords: []
 title: ATP and WTA Tennis
-dateModified: '2016-12-21T04:21:17.402Z'
+dateModified: '2017-04-06T01:01:22.055Z'
 publisher:
   name: Vimeo
   domain: vimeo.com
@@ -15,7 +15,7 @@ author:
 inFeed: true
 description: 'ESPN ATP and WTA Tennis "Get On The Tour" '
 via: {}
-datePublished: '2016-12-21T04:21:17.874Z'
+datePublished: '2017-04-06T01:01:22.284Z'
 sourcePath: _posts/2016-12-21-atp-and-wta-tennis.md
 starred: false
 datePublishedOriginal: '2016-12-21T03:29:45.763Z'
