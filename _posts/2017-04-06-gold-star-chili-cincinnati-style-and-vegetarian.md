@@ -1,18 +1,18 @@
 ---
 inFeed: true
-description: This is "Gold Star Chili - Cincinnati style AND vegetarian
-dateModified: '2017-04-06T01:05:38.873Z'
-datePublished: '2017-04-06T01:06:06.718Z'
-title: Gold Star Chili - "Cincinnati style AND vegetarian"
+description: Don't just Chili. Chili Differently. Gold Star Chili
+dateModified: '2017-07-22T02:53:15.380Z'
+datePublished: '2017-07-22T02:53:15.802Z'
+title: 3-Way and a Drink for just $5.99 - Gold Star Chili
 author:
-  - name: Hollywood
-    url: 'https://vimeo.com/user18992023'
+  - name: Gold Star Chili
+    url: 'https://www.youtube.com/channel/UCIeE7jkpDly8TooD0hDrkMQ'
     avatar: {}
 publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
 via: {}
 hasPage: true
 sourcePath: _posts/2017-04-06-gold-star-chili-cincinnati-style-and-vegetarian.md
@@ -22,4 +22,4 @@ url: gold-star-chili-cincinnati-style-and-vegetarian/index.html
 _type: Article
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F211602623&amp;url=https%3A%2F%2Fvimeo.com%2F211602623&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F627667197_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCOkDm5h-x40%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCOkDm5h-x40&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCOkDm5h-x40%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
