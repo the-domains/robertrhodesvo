@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Don't just Chili. Chili Differently. Gold Star Chili
-dateModified: '2017-07-22T02:53:15.380Z'
-datePublished: '2017-07-22T02:53:15.802Z'
+dateModified: '2017-07-22T02:53:20.198Z'
+datePublished: '2017-07-22T02:53:20.518Z'
 title: 3-Way and a Drink for just $5.99 - Gold Star Chili
 author:
   - name: Gold Star Chili
