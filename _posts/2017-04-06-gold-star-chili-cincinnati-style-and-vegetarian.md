@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: This is "Gold Star Chilli - A Lotta Coney" by Hollywood on Vimeo
-dateModified: '2017-08-20T18:30:13.426Z'
-datePublished: '2017-08-20T18:30:13.758Z'
+dateModified: '2017-08-20T18:32:36.888Z'
+datePublished: '2017-08-20T18:32:37.288Z'
 title: Gold Star Chilli - A Lotta Coney
 author: []
 publisher:
@@ -16,7 +16,7 @@ sourcePath: _posts/2017-04-06-gold-star-chili-cincinnati-style-and-vegetarian.md
 starred: false
 datePublishedOriginal: '2017-04-06T01:06:06.718Z'
 url: gold-star-chili-cincinnati-style-and-vegetarian/index.html
-_type: Article
+_type: MediaObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F230292013&amp;url=https%3A%2F%2Fvimeo.com%2F230292013&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F650824023_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
