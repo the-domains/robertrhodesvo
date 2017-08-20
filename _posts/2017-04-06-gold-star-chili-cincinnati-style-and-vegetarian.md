@@ -1,18 +1,15 @@
 ---
 inFeed: true
-description: Don't just Chili. Chili Differently. Gold Star Chili
-dateModified: '2017-07-22T02:53:20.198Z'
-datePublished: '2017-07-22T02:53:20.518Z'
-title: 3-Way and a Drink for just $5.99 - Gold Star Chili
-author:
-  - name: Gold Star Chili
-    url: 'https://www.youtube.com/channel/UCIeE7jkpDly8TooD0hDrkMQ'
-    avatar: {}
+description: This is "Gold Star Chilli - A Lotta Coney" by Hollywood on Vimeo
+dateModified: '2017-08-20T18:30:07.476Z'
+datePublished: '2017-08-20T18:30:07.822Z'
+title: Gold Star Chilli - A Lotta Coney
+author: []
 publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+  url: 'https://vimeo.com/'
+  name: Vimeo
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+  domain: vimeo.com
 via: {}
 hasPage: true
 sourcePath: _posts/2017-04-06-gold-star-chili-cincinnati-style-and-vegetarian.md
@@ -22,4 +19,6 @@ url: gold-star-chili-cincinnati-style-and-vegetarian/index.html
 _type: Article
 
 ---
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F230292013&amp;url=https%3A%2F%2Fvimeo.com%2F230292013&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F650824023_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCOkDm5h-x40%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCOkDm5h-x40&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCOkDm5h-x40%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
