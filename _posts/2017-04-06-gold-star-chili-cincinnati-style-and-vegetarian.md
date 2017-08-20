@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: This is "Gold Star Chilli - A Lotta Coney" by Hollywood on Vimeo
-dateModified: '2017-08-20T18:30:07.476Z'
-datePublished: '2017-08-20T18:30:07.822Z'
+dateModified: '2017-08-20T18:30:13.426Z'
+datePublished: '2017-08-20T18:30:13.758Z'
 title: Gold Star Chilli - A Lotta Coney
 author: []
 publisher:
