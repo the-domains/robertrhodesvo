@@ -2,17 +2,14 @@
 isBasedOnUrl: 'https://vimeo.com/179275933'
 keywords: []
 title: ESPN NFL Hall Of Fame Weekend
-datePublished: '2017-04-06T01:03:29.733Z'
-dateModified: '2017-04-06T01:03:29.502Z'
+datePublished: '2017-08-20T18:14:39.705Z'
+dateModified: '2017-08-20T18:14:39.390Z'
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-author:
-  - name: Hollywood
-    url: 'https://vimeo.com/user18992023'
-    avatar: {}
+author: []
 inFeed: true
 description: ''
 via: {}
