@@ -1,16 +1,16 @@
 ---
 title: Session Connect
-datePublished: '2016-12-23T16:55:36.521Z'
-dateModified: '2016-12-23T16:55:03.195Z'
+datePublished: '2018-10-09T16:25:38.089Z'
+dateModified: '2018-10-09T16:25:37.575Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: 2 ISDN Studios // Source Connect // IPDTL // Phone Patch
 via: {}
+sourcePath: _posts/2016-12-16-in-the-studio.md
 starred: false
 datePublishedOriginal: '2016-12-16T02:07:16.866Z'
-sourcePath: _posts/2016-12-16-in-the-studio.md
 url: in-the-studio/index.html
 _type: Article
 _context: 'http://schema.org'
