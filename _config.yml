@@ -39,7 +39,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1db21d04-223f-4a24-9487-69d26b0e1897.jpg
-title: Robert Rhodes Voiceovers
+title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -82,7 +82,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
